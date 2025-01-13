@@ -1,7 +1,8 @@
 # Project 01 - Fully Local AI (OLLAMA + Open WebUI)
 This project focuses on setting up a fully local AI environment using OLLAMA and Open WebUI, enabling secure and private AI interactions without relying on external servers. The setup is designed to harness the power of local GPUs, ensuring high performance and reduced latency for AI model inference.
 
-  
+![demo-d3952c8561c4808c1d447fc061c71174](https://github.com/user-attachments/assets/d4402aa4-810d-4659-aa71-387975108f55)
+
   
 
 ## 1. Install WSL and Ubuntu (WSL for Windows)
